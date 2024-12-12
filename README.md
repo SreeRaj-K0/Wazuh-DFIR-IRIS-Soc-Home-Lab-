@@ -98,4 +98,4 @@ Add our iris web-hook url  and API in wazuh-server ossec.conf
 ![test](images/alert.png)
 
 
-We received lot's of  alerts from Wazuh in our DFIR-IRIS system. This is due to configuring the Wazuh OSSEC rules at level 3, resulting in a high volume of alerts.
+I've received lot's of  alerts from Wazuh in  DFIR-IRIS system. This is due to configuring the Wazuh OSSEC rules at level 3, resulting in a high volume of alerts.
